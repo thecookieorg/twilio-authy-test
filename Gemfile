@@ -48,3 +48,4 @@ end
 gem 'simple_form'
 gem "twitter-bootstrap-rails"
 gem 'devise'
+gem 'devise-authy'
